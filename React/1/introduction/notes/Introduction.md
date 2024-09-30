@@ -1,4 +1,4 @@
-## Q WHAT IS REACT?
+## Q What is React?
 
 A  - open source library for building user interfaces
    - not a frame work
@@ -6,7 +6,7 @@ A  - open source library for building user interfaces
    - Rich eco system
 
 
-## Q WHY LEARN REACT?
+## Q Why Learn React?
 
 A  - created and maintained by facebook
    - more than 100k community
@@ -16,7 +16,7 @@ A  - created and maintained by facebook
    - React will handle efficiently updating and rendering of the components
    - DOM updates are handled gracefully in React
 
-## Q MORE ON WHY REACT?
+## Q More On Why React?
 
 A - seamlessly integrate react into any of your apllication
   - portion of your page or a complete page or even an entire application itself.
