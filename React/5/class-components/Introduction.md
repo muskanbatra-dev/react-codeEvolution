@@ -1,6 +1,7 @@
 ## Q WHAT IS REACT?
 
-A  - open source library for building user interfaces
+A 
+   - open source library for building user interfaces
    - not a frame work
    - focus on ui
    - Rich eco system
@@ -8,7 +9,8 @@ A  - open source library for building user interfaces
 
 ## Q WHY LEARN REACT?
 
-A  - created and maintained by facebook
+A  
+   - created and maintained by facebook
    - more than 100k community
    - Component based Architecture
    - Reusable code
@@ -18,6 +20,7 @@ A  - created and maintained by facebook
 
 ## Q MORE ON WHY REACT?
 
-A - seamlessly integrate react into any of your apllication
+A
+  - seamlessly integrate react into any of your apllication
   - portion of your page or a complete page or even an entire application itself.
   - React native for mobile applications
