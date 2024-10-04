@@ -21,10 +21,11 @@ When a Component is being re-rendered as a result of change in its props and sta
 ## Unmounting
 When a Component is being removed from the DOM
 
-- static getDerivedStateFromProps
+- componentDidUnmount
 
 
 ## Error Handling
 When there is an error during rendering in a lifecycle method , or in constructor of a childComponent.
 
-- static getDerivedStateFromProps
+- static getDerivedStateFromError
+- componentDidCatch
